@@ -5,7 +5,7 @@ public class Coins {
 		int cent= 1;
 		int centresult = (a % quarter );
 		int qurtesrresult= (a / quarter) ; 
-		System.out.println ("Use " + qurtesrresult + " qurters and " + centresult + " cents") ;
+		System.out.println ("Use " + qurtesrresult + " quarters and " + centresult + " cents") ;
 	}
 }
 		

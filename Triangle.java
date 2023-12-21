@@ -7,7 +7,7 @@ public class Triangle {
 		 boolean result= false;
 	     result = (a+b>c) && (a+c>b) && (b+c>a) ;
 		 
-		System.out.println (a + ", " + b + ", "+ c + " : " + result); 
+		System.out.println (a + ", " + b + ", "+ c + ": " + result); 
 	    
 		  
 		
